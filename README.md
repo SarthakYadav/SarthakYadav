@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-[![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=SarthakYadav)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=SarthakYadav)
+[![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=SarthakYadav)]![](https://komarev.com/ghpvc/?username=SarthakYadav)
+<! -- (https://github.com/anuraghazra/github-readme-stats) -->
+
+
+- Currently working on Audio SSL for LALMs
 
 <!--
 **SarthakYadav/SarthakYadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
