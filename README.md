@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-[![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=SarthakYadav)]![](https://komarev.com/ghpvc/?username=SarthakYadav)
-<! -- (https://github.com/anuraghazra/github-readme-stats) -->
-
-
 - Currently working on Audio SSL for LALMs
 
 <!--
